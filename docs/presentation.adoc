@@ -1,0 +1,16 @@
+= Tutorial : <Thema der Präsentation>
+:author: Constantin Krüger <Constantin.Krueger@rulebased.group>
+:date: 22.10.2023
+:icons: font
+:revealjs_parallaxBackgroundImage: images/background.png
+:revealjs_parallaxBackgroundSize: 3000px 1689px
+:revealjs_totalTime: 0
+:revealjs_defaultTiming: 0
+:customcss: css/presentation.css
+
+== Slide One
+
+=== Slides One.One
+
+== Slide Two
+

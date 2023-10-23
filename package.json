@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-SNAPSHOT",
+  "name": "slides-template",
+  "devDependencies": {
+    "@asciidoctor/core": "~2",
+    "@asciidoctor/reveal.js": "~5",
+    "http-server": "^14",
+    "fs-extra": "^11"
+  },
+  "scripts": {
+    "generate": "node ./generate-slides.js",
+    "preview": "npx http-server build"
+  }
+}
